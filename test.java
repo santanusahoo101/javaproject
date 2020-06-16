@@ -2,7 +2,7 @@ class test
 {
 public static void main(String[] args) {
 {
-System.out.println("Test Passed!");
+System.out.println("Test sucessfully!");
 }
 }
 }
